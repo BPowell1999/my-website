@@ -1,0 +1,68 @@
+baseURL = "https://bpowell.net/"
+languageCode = "en-gb"
+defaultContentLanguage = "en"
+title = "Brandon's Blog"
+theme = "hermit"
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+rssLimit = 10
+copyright = "Copyright (c) 2020 - Brandon Powell - All Rights Reserved"
+enableEmoji = true
+[author]
+  name = "Brandon Powell"
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "02-01-2006"
+  dateformNumTime = "02-01-2006 15:04 +0000"
+  description = "Just a place for me to share my thoughts and socialise"
+  # images = [""]
+  themeColor = "#494f5c"
+  homeSubtitle = "Welcome to my website!"
+  footerCopyright = ' - All Rights Reserved'
+  justifyContent = true
+  relatedPosts = true
+  code_copy_button = true
+  # customCSS = ["css/foo.css", "css/bar.css"]
+  [[params.social]]
+    name = "twitter"
+    url = "/twitter"
+  [[params.social]]
+    name = "facebook"
+    url = "/facebook"
+  [[params.social]]
+    name = "email"
+    url = "mailto:brandon@bpowell.net"
+  [[params.social]]
+    name = "youtube"
+    url = "/youtube"
+  [[params.social]]
+    name = "github"
+    url = "/github"
+  [[params.social]]
+    name = "More Info"
+    url = "/contact"
+[menu]
+#  [[menu.main]]
+#    name = "Case Studies"
+#    url = "case-studies/"
+#    weight = 50
+  [[menu.main]]
+    name = "Projects"
+    url = "projects/"
+    weight = 40
+  [[menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 30
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 20
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 10
