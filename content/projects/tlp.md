@@ -6,6 +6,10 @@ comments: false
 images:
 ---
 
+# Applications
+
+If you'd like to apply to receive a laptop under this project (for yourself or anyone else), or partner with me in procurement or distribution, please [email me](mailto:brandon@bpowell.net?subject=TLP Application) or call/text me on 07789802468. There are further alternative methods to get in touch with me [here](/contact), if required.
+
 # Background
 
 My name is Brandon Powell. I’m a sole trader based in Sheffield, and I sell online electronics like mobile phones and computers primarily through eBay.

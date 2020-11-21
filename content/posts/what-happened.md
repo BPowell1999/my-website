@@ -8,7 +8,7 @@ tags:
   - announcements
 ---
 
-Hey everyone :smile: I'm writing this post shortly after the last one, as I'm starting to change the deployment of my website... Again. For those interested, I'm switching back to HUGO static-site generator.
+Hey everyone :smile: I'm writing this post shortly after the last one, as I'm starting to change the deployment of my website... Again. For those interested, I'm switching back to the [HUGO](https://gohugo.io) static-site generator.
 
 I'm doing this for one simple reason - I don't need WordPress anymore :man_shrugging: This is because I've decided to remove my storefront and sell only through eBay, and other interactive features like comments and contact forms simply weren't used on my old website (excluding the spammers I experienced, of course). Thus, only the *content* was actually used by genuine people. A static website is better suited to this use-case and is easier to maintain.
 
@@ -21,7 +21,7 @@ The various projects associated with my website are largely the same, but some h
 |         Project          |                         Description                          |                            Status                            |
 | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |      URL-S Service       |                   URL Shortening service.                    |    Now made private. Memberships are no longer available.    |
-|        Scripting         | Lua/Python/Bash scripting handed over from [S-City Tech](https://startechnology.uk) | This project has been on hold for so long that it's time to cut it. |
+|           FUJI           |        Python scripting handed over from S-City Tech         | This project has been on hold for a long time, but I'm beginning to work on it again. |
 | The Laptop Project (TLP) | A project intended to help people in need to obtain laptops affordably and reliably. | I'm still working behind-the-scenes on this project. As of right now, there's no reason to cease it. |
 |        Storefront        |          Website storefront powered by WooCommerce.          |  This project has been cut and replaced by sales via eBay.   |
 |      Cry For Unity       |                 Online Storytelling Series.                  |     This project is still in the early planning stages.      |
