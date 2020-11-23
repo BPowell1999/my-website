@@ -17,4 +17,4 @@ I'm also open to just having a general chat, so why not get in touch? :slightly_
 
 - [Discord](/discord)
 
-Looking for other services? I sell products through [eBay](/ebay) and create videos on [YouTube](/youtube) and [Dailymotion](/dailymotion).
+Looking for other services? I sell products through [eBay](/ebay) and create videos on [YouTube](/youtube).
