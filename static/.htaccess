@@ -8,5 +8,4 @@ RewriteRule ^.*$ /yourls-loader.php [L]
 </IfModule>
 # END YOURLS
 # Custom rules
-Redirect Permanent /404.html /not-found/index.html
-ErrorDocument 404 /not-found/index.html
+ErrorDocument 404 /404.html
