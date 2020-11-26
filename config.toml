@@ -8,6 +8,7 @@ pygmentsUseClasses  = true
 rssLimit = 10
 copyright = "Copyright (c) 2020 - Brandon Powell - All Rights Reserved"
 enableEmoji = true
+googleAnalytics = "G-C8VPGCNJHN"
 [author]
   name = "Brandon Powell"
 [taxonomies]
