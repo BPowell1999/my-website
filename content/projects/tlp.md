@@ -56,7 +56,7 @@ Tablets can be good to use for work under some circumstances - they're relativel
 
 ### Laptops
 
-That brings us lastly to laptops. A happy medium between tablets and PCs - some modern laptops can even fold up on themselves and be used a tablet now. They are ideal because they balance portability, affordability and availability quite well. Besides, I had to pick something or I'd have no business :laugh:
+That brings us lastly to laptops. A happy medium between tablets and PCs - some modern laptops can even fold up on themselves and be used a tablet now. They are ideal because they balance portability, affordability and availability quite well. Besides, I had to pick something or I'd have no business :laughing:
 
 # Concessions
 
