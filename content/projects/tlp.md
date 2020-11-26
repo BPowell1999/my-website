@@ -15,7 +15,7 @@ TLP is all about getting *[laptops](#why-laptops)* to people who need them - rel
 
 # How it works
 
-The Laptop Project is a unique one - in that is *not* a charity, I am a sole trader, in fact. I buy laptops from places like pawn shops, Facebook Marketplace, eBay and many other places, repair & refit them if needed and then, if they meet the [requirements](#what-consumers-get), they are added to TLP's inventory.
+The Laptop Project is a unique one - in that it is *not* a charity, I am a sole trader, in fact. I buy laptops from places like pawn shops, Facebook Marketplace, eBay and many other places, repair & refit them if needed and then, if they meet the [requirements](#what-consumers-get), they are added to TLP's inventory.
 
 From there, a consumer can either buy one directly, or apply for a [concession](#concessions). Once the transaction is complete, the consumer receives their laptop unit in the mail or, in some cases, by [partnered courier](#partnerships) or even by hand-delivery and they then own the unit outright.
 
