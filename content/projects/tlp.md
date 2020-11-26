@@ -39,6 +39,10 @@ When shipped, every laptop will come with *either* Linux Mint 20 installed for m
 
 Every unit comes with a guarantee that it will be capable of *basic word processing and web browsing* for 3 calendar months. If it fails during this period due to reasonable wear & tear **and** it *was not* damaged by the user, it is eligible for a refund or replacement.
 
+### Returns Program
+
+If, within 6 calendar months, you no longer need the laptop **and** it is in *good* condition, you can return the laptop to me for £100 instant buyback. If this window passes, it can't be returned in this way.
+
 # Why Laptops?
 
 In my planning, I determined that laptops were the best suited to what this project aims to achieve: helping make tech accessible to everyone who needs it. Let me take you through my thought process:
