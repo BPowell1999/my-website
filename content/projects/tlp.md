@@ -10,7 +10,7 @@ images:
 
 Hi :wave: I'm Brandon, and I run The Laptop Project. TLP is a project that was originally sparked around 2016 - when I was in college. For various reasons, it didn't come to fruition until now. I'm very passionate about this project and I'm over the moon that I've finally been able to make it happen! Even if I did wear my desk chair out in doing so :laughing: 
 
-TLP is all about getting *([laptops](#why-laptops))* to people who need it - reliably and affordably. Every laptop comes with a [guarantee](#guarantee) and there's even a [returns program](#returns-program) for when they are no longer needed!
+TLP is all about getting *([laptops](#why-laptops))* to people who need them - reliably and affordably. Every laptop comes with a [guarantee](#guarantee) and there's even a [returns program](#returns-program) for when they are no longer needed!
 
 # How it works
 
@@ -38,10 +38,6 @@ When shipped, every laptop will come with *either* Linux Mint 20 installed for m
 
 Every unit comes with a guarantee that it will be capable of *basic word processing and web browsing* for 3 calendar months. If it fails during this period due to reasonable wear & tear **and** it *was not* damaged by the user, it is eligible for a refund or replacement.
 
-### Returns Program
-
-If, within 6 calendar months, you no longer need the laptop **and** it is in *good* condition, you can return the laptop to me for £100 instant buyback. If this window passes, it can't be returned in this way.
-
 # Why Laptops?
 
 In my planning, I determined that laptops were the best suited to what this project aims to achieve: helping make tech accessible to everyone who needs it. Let me take you through my thought process:
@@ -67,6 +63,8 @@ That brings us lastly to laptops. A happy medium between tablets and PCs - some 
 There is also something I call concessions available for this project. Concessions allow part of the purchase price to be drawn from a fund, making the purchase even more accessible to users who have financial struggles. Applications are considered on a case-by-case basis, and depend on factors like individual circumstances, the amount available in the fund and much, much more.
 
 I will endeavour to undertake fundraising activities when I am able - at present, COVID-19 makes many fundraising activities difficult. Additionally, anyone can [donate](/tlp-donate) to the fund at any time (via [Square](https://squareup.com)), if they'd like to support the project.
+
+_**NOTE:** The concessions system is separate from regular offers and promotions. Standard offers like £25 off **are not** drawn from the concession fund._
 
 # Getting one
 
