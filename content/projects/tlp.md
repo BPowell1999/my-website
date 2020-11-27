@@ -96,11 +96,11 @@ The best way you can support the project is simply to spread the word on [Facebo
 
 Partnerships will be *key* to this project long-term - help is *always* appreciated in procuring new laptops, fundraising or just raising awareness. However, as the project grows, it will become important to have partners in local distribution, repairs and recycling of e-waste such as end-of-life batteries and much more. All partnered companies will be listed on this page (unless they request otherwise).
 
-If you're a business looking for more information about partnering or you'd like to discuss terms, please [get in touch](mailto:brandon@bpowell.net?subject=TLP Partnerships).
+If you're a business looking for more information about partnering or you'd like to discuss terms, please [get in touch](mailto:brandon@bpowell.net?subject=TLP%20Partnerships).
 
 ### Have your say
 
-I am always to feedback from users all around my website and services, and that includes with this project. If you have any suggestions for improvements, please fill in [this short form](/tlp-feedback) or [get in touch](/contact) and I'll be happy to have a discussion with you!
+I am always open to feedback from users all around my website and services, and that includes with this project. If you have any suggestions for improvements, please fill in [this short form](/tlp-feedback) or [get in touch](/contact) and I'll be happy to have a discussion with you!
 
 # Mailing List
 
