@@ -5,6 +5,3 @@ Disallow: /images
 Disallow: /includes
 Disallow: /js
 Disallow: /user
-Disallow: /not-found
-Disallow: /projects/tlp
-Disallow: /tlp-authentication
