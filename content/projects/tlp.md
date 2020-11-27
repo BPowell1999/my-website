@@ -13,6 +13,17 @@ Hi :wave: I'm Brandon, and I run The Laptop Project. TLP is a project that was o
 
 TLP is all about getting *[laptops](#why-laptops)* to people who need them - reliably and affordably. Every laptop comes with a [guarantee](#guarantee) and there's even a [returns program](#returns-program) for when they are no longer needed!
 
+# Quick Links
+
+After some feedback from an early adopter, here are some links to relevant headings in this page for easy access:
+
+|                       Description                        |                       Link                        |
+| :------------------------------------------------------: | :-----------------------------------------------: |
+|             Purchase a laptop or gift card.              |            [Getting One](#getting-one)            |
+|           Learn about the concessions system.            |            [Concessions](#concessions)            |
+| Have your say on potential improvements for the project. |          [Have Your Say](#have-your-say)          |
+| Learn how you can support the Project in helping people. | [Supporting The Project](#supporting-the-project) |
+
 # How it works
 
 The Laptop Project is a unique one - in that it is *not* a charity, I am a sole trader, in fact. I buy laptops from places like pawn shops, Facebook Marketplace, eBay and many other places, repair & refit them if needed and then, if they meet the [requirements](#what-consumers-get), they are added to TLP's inventory.
@@ -75,7 +86,7 @@ _**NOTE:** The concessions system is separate from regular offers and promotions
 
 Laptops via this project currently cost £125. You can checkout a unit [here](/buy-tlp). All payments are managed by my provider, [Square](https://squareup.com). You can also purchase gift cards [here](/tlp-egift) if you'd like to help someone you know get a laptop. 
 
-However, if you'd like to apply for a concession, please [contact me](/contact) and we'll work together to arrange something.
+However, if you'd like to apply for a concession, please [contact me](/contact) whichever way is best for you and we'll work together to arrange something.
 
 # Supporting the project
 
@@ -86,6 +97,10 @@ The best way you can support the project is simply to spread the word on [Facebo
 Partnerships will be *key* to this project long-term - help is *always* appreciated in procuring new laptops, fundraising or just raising awareness. However, as the project grows, it will become important to have partners in local distribution, repairs and recycling of e-waste such as end-of-life batteries and much more. All partnered companies will be listed on this page (unless they request otherwise).
 
 If you're a business looking for more information about partnering or you'd like to discuss terms, please [get in touch](mailto:brandon@bpowell.net?subject=TLP Partnerships).
+
+### Have your say
+
+I am always to feedback from users all around my website and services, and that includes with this project. If you have any suggestions for improvements, please fill in [this short form](/tlp-feedback) or [get in touch](/contact) and I'll be happy to have a discussion with you!
 
 # Mailing List
 

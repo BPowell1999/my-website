@@ -4,7 +4,7 @@
 	{{- else if .Params.images -}}
 		{{- range first 1 .Params.images -}}
 			{{ if eq $.Page.Title "The Laptop Project (TLP)" }}
-				<style>.bg-img {background-image: url('{{. | absURL}}');opacity: .3;}</style>
+				<style>.bg-img {background-image: url('{{. | absURL}}');opacity: .3;}.show-bg-img {opacity: 1 !important;}</style>
 			{{ else }}
 				<style>.bg-img {background-image: url('{{. | absURL}}');}</style>
 			{{ end }}

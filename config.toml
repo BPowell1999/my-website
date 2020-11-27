@@ -27,7 +27,7 @@ googleAnalytics = "G-C8VPGCNJHN"
   justifyContent = true
   relatedPosts = true
   code_copy_button = true
-  # customCSS = ["css/foo.css", "css/bar.css"]
+  customCSS = ["css/custom.css"]
   [[params.social]]
     name = "twitter"
     url = "/twitter"
