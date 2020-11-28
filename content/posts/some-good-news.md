@@ -7,6 +7,7 @@ images:
 tags: 
   - me
   - announcements
+  - laptop-project
 ---
 
 Hey everyone; today I have some good news :relaxed:

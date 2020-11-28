@@ -7,6 +7,7 @@ images:
 tags: 
   - quick-tips
   - linux
+  - laptop-project
 ---
 
 Hi guys! Today I’m going to run through how to install Spotify without any errors, or fix it if you get GPG and/or internet connection errors when trying to download packages. There are a lot of tutorials around about this, but they all use the command line and I want to show you how to use the graphical tools for this one – no command line.

@@ -6,6 +6,7 @@ toc: false
 images:
 tags: 
   - quick-tips
+  - laptop-project
 ---
 
 Not everyone wants to have to manually update their system all the time – we all know how often Linux updates and some people don’t want to bother, some people just want to sit at their computer, get their work done and have their computer just work.
