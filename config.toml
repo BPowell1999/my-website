@@ -9,7 +9,6 @@ rssLimit = 10
 copyright = "Copyright (c) 2020 - Brandon Powell - All Rights Reserved"
 enableEmoji = true
 googleAnalytics = "G-C8VPGCNJHN"
-summaryLength = 25
 [author]
   name = "Brandon Powell"
 [taxonomies]

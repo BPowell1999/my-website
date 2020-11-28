@@ -7,11 +7,11 @@ images:
     - /images/LAPTOP%20PROJECT%20W.png
 ---
 
-# Welcome to The Laptop Project!
+## Welcome to The Laptop Project!
 
 Hi :wave: I'm Brandon, and I run The Laptop Project. TLP is a project that was originally sparked around 2016 - when I was in college. For various reasons, it didn't come to fruition until now. I'm very passionate about this project and I'm over the moon that I've finally been able to make it happen! Even if I did wear my desk chair out in doing so :laughing: 
 
-TLP is all about getting *[laptops](#why-laptops)* to people who need them - reliably and affordably. Every laptop comes with a [guarantee](#guarantee) and there's even a [returns program](#returns-program) for when they are no longer needed!
+TLP is all about getting [laptops](#why-laptops) to people who need them - reliably and affordably. Every laptop comes with a [guarantee](#guarantee) and there's even a [returns program](#returns-program) for when they are no longer needed!
 
 ## Quick Links
 
