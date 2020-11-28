@@ -13,7 +13,7 @@ Hi :wave: I'm Brandon, and I run The Laptop Project. TLP is a project that was o
 
 TLP is all about getting *[laptops](#why-laptops)* to people who need them - reliably and affordably. Every laptop comes with a [guarantee](#guarantee) and there's even a [returns program](#returns-program) for when they are no longer needed!
 
-# Quick Links
+## Quick Links
 
 After some feedback from an early adopter, here are some links to relevant headings in this page for easy access:
 
@@ -24,13 +24,13 @@ After some feedback from an early adopter, here are some links to relevant headi
 | Have your say on potential improvements for the project. |          [Have Your Say](#have-your-say)          |
 | Learn how you can support the Project in helping people. | [Supporting The Project](#supporting-the-project) |
 
-# How it works
+## How it works
 
 The Laptop Project is a unique one - in that it is *not* a charity, I am a sole trader, in fact. I buy laptops from places like pawn shops, Facebook Marketplace, eBay and many other places, repair & refit them if needed and then, if they meet the [requirements](#what-consumers-get), they are added to TLP's inventory.
 
 From there, a consumer can either buy one directly, or apply for a [concession](#concessions). Once the transaction is complete, the consumer receives their laptop unit in the mail or, in some cases, by [partnered courier](#partnerships) or even by hand-delivery and they then own the unit outright.
 
-# What consumers get
+## What consumers get
 
 Every laptop must meet or exceed a certain set of criteria:
 
@@ -54,7 +54,7 @@ Every unit comes with a guarantee that it will be capable of *basic word process
 
 If, within 6 calendar months, you no longer need the laptop **and** it is in *good* condition, you can return the laptop to me for £100 instant buyback. If this window passes, it can't be returned in this way.
 
-# Why Laptops?
+## Why Laptops?
 
 In my planning, I determined that laptops were the best suited to what this project aims to achieve: helping make tech accessible to everyone who needs it. Let me take you through my thought process:
 
@@ -74,7 +74,7 @@ Tablets can be good to use for work under some circumstances - they're relativel
 
 That brings us lastly to laptops. A happy medium between tablets and PCs - some modern laptops can even fold up on themselves and be used as a tablet now. They are ideal because they balance portability, affordability and availability quite well. Besides, I had to pick something or I'd have no business :laughing:
 
-# Concessions
+## Concessions
 
 There is also something I call concessions available for this project. Concessions allow part of the purchase price to be drawn from a fund, making the purchase even more accessible to users who have financial struggles. Applications are considered on a case-by-case basis, and depend on factors like individual circumstances, the amount available in the fund and much, much more.
 
@@ -82,13 +82,13 @@ I will endeavour to undertake fundraising activities when I am able - at present
 
 _**NOTE:** The concessions system is separate from regular offers and promotions. Standard offers like £25 off **are not** drawn from the concession fund._
 
-# Getting one
+## Getting one
 
 Laptops via this project currently cost £125. You can checkout a unit [here](/buy-tlp). All payments are managed by my provider, [Square](https://squareup.com). You can also purchase gift cards [here](/tlp-egift) if you'd like to help someone you know get a laptop. 
 
 However, if you'd like to apply for a concession, please [contact me](/contact) whichever way is best for you and we'll work together to arrange something.
 
-# Supporting the project
+## Supporting the project
 
 The best way you can support the project is simply to spread the word on [Faceboook](https://www.facebook.com/sharer/sharer.php?u=https://bpowell.net/projects/tlp) and [Twitter](https://twitter.com/intent/tweet?url=https://bpowell.net/projects/tlp&text=) - the best thing for this project as of right now is people *knowing* about it. Additionally, if you'd like to help consumers get a concession, you can [donate to the fund](/tlp-donate) - in this case, every little *really does* help. Whatever you do for the project, I'm very grateful. If you're a local business, you can also support the project another way;
 
@@ -102,7 +102,7 @@ If you're a business looking for more information about partnering or you'd like
 
 I am always open to feedback from users all around my website and services, and that includes with this project. If you have any suggestions for improvements, please fill in [this short form](/tlp-feedback) or [get in touch](/contact) and I'll be happy to have a discussion with you!
 
-# Mailing List
+## Mailing List
 
 Last, but definitely not least, if you'd like to receive email updates about the project, announcements about fundraisers, promo-codes, and chances to win prizes, you can subscribe to the [mailing list](/tlp-mail).
 
