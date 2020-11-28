@@ -23,10 +23,11 @@ After some feedback from an early adopter, here are some links to relevant headi
 |           Learn about the concessions system.            |            [Concessions](#concessions)            |
 | Have your say on potential improvements for the project. |          [Have Your Say](#have-your-say)          |
 | Learn how you can support the Project in helping people. | [Supporting The Project](#supporting-the-project) |
+|    View recent updates about the project on Facebook.    |          [Facebook Page](/tlp-facebook)           |
 
 ## How it works
 
-The Laptop Project is a unique one - in that it is *not* a charity, I am a sole trader, in fact. I buy laptops from places like pawn shops, Facebook Marketplace, eBay and many other places, repair & refit them if needed and then, if they meet the [requirements](#what-consumers-get), they are added to TLP's inventory.
+The Laptop Project is a unique one - in that it is *not* a charity, I am a sole trader, in fact. I buy laptops from places like pawn shops, Facebook Marketplace, eBay and many other places, repair & refit them if needed and then, if they meet the [requirements](#what-consumers-get), they are added to the project's inventory.
 
 From there, a consumer can either buy one directly, or apply for a [concession](#concessions). Once the transaction is complete, the consumer receives their laptop unit in the mail or, in some cases, by [partnered courier](#partnerships) or even by hand-delivery and they then own the unit outright.
 
