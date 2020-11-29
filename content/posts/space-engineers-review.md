@@ -11,7 +11,7 @@ tags:
   - gaming
 ---
 
-Hey guys! Today I’ve got an announcement and a review for a game called Space Engineers.
+Hey guys! Today I’ve got a review for a game called Space Engineers.
 
 Space Engineers is a game available via Steam for only around £15 – and to be quite frank, I’m addicted already :laughing: I discovered it when digging through the Steam store for something new to play because of burnout with the rest of my library. It was sitting in my Discovery Queue, recommended because I played Star Trek Online.
 
@@ -31,6 +31,4 @@ That brings me to Creative mode. In creative mode, your character is invulnerabl
 
 Finally, storytelling mode. Storytelling mode is an interesting one, there are a few default scenarios, but most can be downloaded from the Steam Workshop and have been created by other users. These scenarios are more scripted than survival or creative, and usually tell a story of some kind (hence the name of the mode). The default scenarios act as semi-tutorial(*ish*) things, giving some **very** rudimentary information on how to play.
 
-That brings me to my next announcement, I’m going to begin uploading Space Engineers videos to [my YouTube channel](https://www.youtube.com/channel/UCSUzOrQTR5jryUrQqsY3Dow). I’m not planning to upload a survival series because quite a few people are already doing that, but instead I’m going to do things like review the purchasable ships and provide tips for particular blocks, etc.
-
-I hope you enjoy the new videos, and I’ll see you in another few weeks with my next post :smile:
+I’ll see you in another few weeks with my next post :smile: I hope some of you enjoy the game​
