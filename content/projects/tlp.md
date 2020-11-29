@@ -103,9 +103,9 @@ If you're a business looking for more information about partnering or you'd like
 
 I am always open to feedback from users all around my website and services, and that includes with this project. If you have any suggestions for improvements, please fill in [this short form](/tlp-feedback) or [get in touch](/contact) and I'll be happy to have a discussion with you!
 
-## Mailing List
+## Staying in the Loop
 
-Last, but definitely not least, if you'd like to receive email updates about the project, announcements about fundraisers, promo-codes, and chances to win prizes, you can subscribe to the [mailing list](/tlp-mail).
+Last, but definitely not least, if you'd like to receive updates about the project, announcements about fundraisers, promo-codes, and chances to win prizes, you can subscribe to the [mailing list](/tlp-mail) or follow the [Facebook Page](/tlp-facebook).
 
 ---
 
