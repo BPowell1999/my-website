@@ -27,22 +27,19 @@ googleAnalytics = "G-C8VPGCNJHN"
   justifyContent = true
   relatedPosts = true
   code_copy_button = true
-  customCSS = ["css/custom.css"]
+  customCSS = ["/custom.css"]
   [[params.social]]
     name = "twitter"
-    url = "/twitter"
+    url = "https://twitter.com/KnockedBubbles"
   [[params.social]]
     name = "facebook"
-    url = "/facebook"
+    url = "https://facebook.com/KnockedBubbles"
   [[params.social]]
     name = "email"
     url = "mailto:brandon@bpowell.net"
   [[params.social]]
-    name = "youtube"
-    url = "/youtube"
-  [[params.social]]
     name = "github"
-    url = "/github"
+    url = "https://github.com/BPowell1999"
   [[params.social]]
     name = "More Info"
     url = "/contact"

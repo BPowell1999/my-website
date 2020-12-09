@@ -14,7 +14,7 @@ I’m always open to feedback on my website and services, or just for a chat! Do
 
 ## About My Website
 
-My website is built using the [HUGO](https://gohugo.io) Static-Site Generator, and includes an installation of [YOURLS](https://yourls.org). The theme I'm using ([Hermit by Track3](https://github.com/Track3/hermit)) and YOURLS are both licensed under MIT. The original licenses for these products are available [here](/YOURLS.LICENSE) and [here](/Hermit.LICENSE) (respectively).
+My website is built using the [HUGO](https://gohugo.io) Static-Site Generator. The theme I'm using ([Hermit by Track3](https://github.com/Track3/hermit)) is licensed under MIT. The original licenses is available [here](/Hermit.LICENSE).
 
 My website *is not* open source; I *(Brandon Powell)* am the **exclusive** copyright holder. However, you can contribute on [GitHub](/github) if you see errors on my site or would like to suggest a change. Additionally, as-per [GitHub's TOS](https://help.github.com/articles/github-terms-of-service), you **can** fork my repository and create derivative works, *so long as* said works *do not* violate my rights under copyright law. This includes (**but _is not_ limited to**) acts such as redistributing my **unmodified** work, suggesting being my original website and plagiarising posts and/or pages.
 
