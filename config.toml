@@ -44,10 +44,6 @@ googleAnalytics = "G-C8VPGCNJHN"
     name = "More Info"
     url = "/contact"
 [menu]
-#  [[menu.main]]
-#    name = "Case Studies"
-#    url = "case-studies/"
-#    weight = 50
   [[menu.main]]
     name = "Projects"
     url = "projects/"
