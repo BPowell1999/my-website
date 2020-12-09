@@ -10,10 +10,10 @@ If you have some feedback for my website or one of my projects, or general busin
 
 I'm also open to just having a general chat, so why not get in touch? :slightly_smiling_face:
 
-- [Twitter](/twitter)
-- [Facebook](/facebook)
+- [Twitter](https://twitter.com/KnockedBubbles)
+- [Facebook](https://facebook.com/KnockedBubbles)
 
-- [Telegram](/telegram)
+- [Telegram](https://t.me/BPowell1999)
 
 
-Looking for other services? I sell products through [eBay](/ebay) and create videos on [YouTube](/youtube).
+Looking for other services? I sell products through [eBay](https://www.ebay.co.uk/usr/bpowell1999).
