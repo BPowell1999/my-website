@@ -1,14 +1,14 @@
-baseURL = "https://bpowell.net/"
+baseURL = "https://tequenikality.net/"
 languageCode = "en-gb"
 defaultContentLanguage = "en"
-title = "Brandon's Blog"
+title = "Tequenikality"
 theme = "hermit"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
-rssLimit = 10
+rssLimit = 75
 copyright = "Copyright (c) 2020 - Brandon Powell - All Rights Reserved"
 enableEmoji = true
-googleAnalytics = "G-C8VPGCNJHN"
+#googleAnalytics = "G-C8VPGCNJHN"
 [author]
   name = "Brandon Powell"
 [taxonomies]
@@ -29,17 +29,14 @@ googleAnalytics = "G-C8VPGCNJHN"
   code_copy_button = true
   customCSS = ["/custom.css"]
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/KnockedBubbles"
-  [[params.social]]
     name = "facebook"
-    url = "https://facebook.com/KnockedBubbles"
+    url = "https://facebook.com/Tequenikality"
   [[params.social]]
     name = "email"
-    url = "mailto:brandon@bpowell.net"
+    url = "mailto:contact@tequenikality.net"
   [[params.social]]
     name = "github"
-    url = "https://github.com/BPowell1999"
+    url = "https://github.com/Tequenikality"
   [[params.social]]
     name = "More Info"
     url = "/contact"
