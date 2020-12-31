@@ -49,7 +49,7 @@ At this point, I've reached out to two doctors for support and been labelled an 
 
 ## Taking a break
 
-As you may have noticed, I took a break over the holiday season. My hope was that it'd help, but it didn't. I deleted the Twitter simply because I didn't use it and I wanted to focus on my website itself (eventually, apparently).
+As you may have noticed, I took a break over the holiday season. My hope was that it'd help, but it didn't. I deleted my Twitter simply because I didn't use it and I wanted to focus on my website itself (eventually, apparently).
 
 ---
 
