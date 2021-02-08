@@ -37,9 +37,6 @@ enableEmoji = true
   [[params.social]]
     name = "github"
     url = "https://github.com/Tequenikality"
-  [[params.social]]
-    name = "More Info"
-    url = "/contact"
 [menu]
   [[menu.main]]
     name = "Projects"
