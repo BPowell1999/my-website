@@ -1,6 +1,6 @@
 ---
 title: "My Thoughts on Google Stadia"
-date: 2020-12-13T11:39:12Z
+date: 2020-11-30T11:39:12Z
 draft: false
 toc: false
 images:
@@ -9,7 +9,7 @@ tags:
   - reviews
 ---
 
-Hey guys - I'm sorry it's been a while since you've heard from me; I've got a post lined up that's related to that. However, for the time being, let's discuss Google Stadia.
+Hey guys - today let's discuss Google Stadia.
 
 _**FULL DISCLOSURE:** I received my Stadia controller and a Chromecast Ultra to keep for **free** thanks to my YouTube Premium subscription as part of a **publicly available** offer from Google. My thoughts are my own, I **am not** being paid to say anything and nobody is reviewing this post before it goes live._
 

@@ -12,7 +12,7 @@ Hey everyone, I’m writing a post to be honest about what happened last night (
 
 As I’ve discussed with you before, I take security very seriously. However, in this case I took it too seriously.
 
-I received an email from an address in my own email system that doesn’t even exist (info@bpowell.net) – or so I *thought*, at least – which made me think a hack was in progress.
+I received an email from an address in my own email system that doesn’t even exist (info@tequenikality.net) – or so I *thought*, at least – which made me think a hack was in progress.
 
 My procedure for a hack in progress is to take my server offline and investigate & remedy the issue without exposure to the Internet.
 

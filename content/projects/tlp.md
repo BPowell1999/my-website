@@ -101,11 +101,7 @@ If you're a business looking for more information about partnering or you'd like
 
 ### Have your say
 
-I am always open to feedback from users all around my website and services, and that includes with this project. If you have any suggestions for improvements, please fill in [this short form](https://docs.google.com/forms/d/e/1FAIpQLSd4MfwpEktPYVnBX_qY2vDlF3Vlul1l1O3jBV3PXIF15g94_g/viewform?usp=sf_link) or [get in touch](/contact) and I'll be happy to have a discussion with you!
-
-## Staying in the Loop
-
-Last, but definitely not least, if you'd like to receive updates about the project, announcements about fundraisers, promo-codes, and chances to win prizes, you can subscribe to the [mailing list](https://groups.google.com/a/bpowell.net/g/m-list) or follow the [Facebook Page](https://www.facebook.com/the.laptop.project.gb/?__cft__%5B0%5D=AZVKk4i_bK8-H0W27v_y8VTmaY0c1dwcf0B1GqwYKmW6Dj8wVropegLhEf61KfmUWe4q7XPFtvq787xVsUyR6orl5F7U_OBOWZElTChC8kRMjNn45nsW9b1om_t4Ke-tgY5vvNgQfn_ZpO4UEd4dW62GuLdh6tVvUIwHtSP9XgpjYw&__tn__=H-R).
+I am always open to feedback from users all around my website and services, and that includes with this project. If you have any suggestions for improvements, please [get in touch](/contact) and I'll be happy to have a discussion with you!
 
 ---
 

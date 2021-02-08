@@ -11,7 +11,7 @@ tags:
 
 ![Crude VPN diagram](/images/vpn-graphic.png)
 
-Hey everyone! Today I want to discuss something that’s cropped up a bit for my lately as I’ve been doing security-focused research for and work on my webserver.
+Hey everyone! Today I want to discuss something that’s cropped up a bit for me lately as I’ve been doing security-focused research for and work on my webserver.
 
 I’ve learnt a lot of things, thanks in no small part to a premium membership with [Alison Courses](http://alison.com/), today I want to share some of that knowledge with you – VPN’s **are not** what people make them out to be.
 
