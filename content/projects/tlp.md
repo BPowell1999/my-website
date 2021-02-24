@@ -17,13 +17,12 @@ TLP is all about getting [laptops](#why-laptops) to people who need them - relia
 
 After some feedback from an early adopter, here are some links to relevant headings in this page for easy access:
 
-|                       Description                        |                             Link                             |
-| :------------------------------------------------------: | :----------------------------------------------------------: |
-|             Purchase a laptop or gift card.              |                 [Getting One](#getting-one)                  |
-|           Learn about the concessions system.            |                 [Concessions](#concessions)                  |
-| Have your say on potential improvements for the project. |               [Have Your Say](#have-your-say)                |
-| Learn how you can support the Project in helping people. |      [Supporting The Project](#supporting-the-project)       |
-|    View recent updates about the project on Facebook.    | [Facebook Page](https://www.facebook.com/the.laptop.project.gb/?__cft__%5B0%5D=AZVKk4i_bK8-H0W27v_y8VTmaY0c1dwcf0B1GqwYKmW6Dj8wVropegLhEf61KfmUWe4q7XPFtvq787xVsUyR6orl5F7U_OBOWZElTChC8kRMjNn45nsW9b1om_t4Ke-tgY5vvNgQfn_ZpO4UEd4dW62GuLdh6tVvUIwHtSP9XgpjYw&__tn__=H-R) |
+|                       Description                        |                       Link                        |
+| :------------------------------------------------------: | :-----------------------------------------------: |
+|             Purchase a laptop or gift card.              |            [Getting One](#getting-one)            |
+|           Learn about the concessions system.            |            [Concessions](#concessions)            |
+| Have your say on potential improvements for the project. |          [Have Your Say](#have-your-say)          |
+| Learn how you can support the Project in helping people. | [Supporting The Project](#supporting-the-project) |
 
 ## How it works
 
@@ -79,19 +78,19 @@ That brings us lastly to laptops. A happy medium between tablets and PCs - some 
 
 There is also something I call concessions available for this project. Concessions allow part of the purchase price to be drawn from a fund, making the purchase even more accessible to users who have financial struggles. Applications are considered on a case-by-case basis, and depend on factors like individual circumstances, the amount available in the fund and much, much more.
 
-I will endeavour to undertake fundraising activities when I am able - at present, COVID-19 makes many fundraising activities difficult. Additionally, anyone can [donate](https://checkout.square.site/merchant/ML72PZVSHDDP4/checkout/QPQ32BAQRLPXF5OHIAUPWMTE) to the fund at any time (via [Square](https://squareup.com)), if they'd like to support the project.
+I will endeavour to undertake fundraising activities when I am able - at present, COVID-19 makes many fundraising activities difficult. Additionally, anyone can [donate](https://store.tequenikality.net/product/tlp-donate/) to the fund at any time (via [Square](https://squareup.com)), if they'd like to support the project.
 
 _**NOTE:** The concessions system is separate from regular offers and promotions. Standard offers like £25 off **are not** drawn from the concession fund._
 
 ## Getting one
 
-Laptops via this project currently cost £125. You can checkout a unit [here](https://checkout.square.site/buy/URVSPQVJJ55OMRP453ACVUEJ). All payments are managed by my provider, [Square](https://squareup.com). You can also purchase gift cards [here](https://squareup.com/gift/ML72PZVSHDDP4/order) if you'd like to help someone you know get a laptop. 
+Laptops via this project currently cost £125. You can checkout a unit from my store [here](https://store.tequenikality.net/product/basic-laptop/).
 
 However, if you'd like to apply for a concession, please [contact me](/contact) whichever way is best for you and we'll work together to arrange something.
 
 ## Supporting the project
 
-The best way you can support the project is simply to spread the word on [Faceboook](https://www.facebook.com/sharer/sharer.php?u=https://bpowell.net/projects/tlp) and [Twitter](https://twitter.com/intent/tweet?url=https://bpowell.net/projects/tlp&text=) - the best thing for this project as of right now is people *knowing* about it. Additionally, if you'd like to help consumers get a concession, you can [donate to the fund](https://checkout.square.site/merchant/ML72PZVSHDDP4/checkout/QPQ32BAQRLPXF5OHIAUPWMTE) - in this case, every little *really does* help. Whatever you do for the project, I'm very grateful. If you're a local business, you can also support the project another way;
+The best way you can support the project is simply to spread the word on [Faceboook](https://www.facebook.com/sharer/sharer.php?u=https://bpowell.net/projects/tlp) and [Twitter](https://twitter.com/intent/tweet?url=https://bpowell.net/projects/tlp&text=) - the best thing for this project as of right now is people *knowing* about it. Additionally, if you'd like to help consumers get a concession, you can [donate to the fund](#concessions) - in this case, every little *really does* help. Whatever you do for the project, I'm very grateful. If you're a local business, you can also support the project another way;
 
 ### Partnerships
 
